@@ -1,5 +1,7 @@
 # ToDo
 
+This is the standard to-do app that everybody creates. I'm teaching myself Angular from a book, so at least in the beginning I'm creating this very simple to-do widget as instructed by the book.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
 ## Development server
